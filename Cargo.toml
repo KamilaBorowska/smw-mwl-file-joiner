@@ -1,0 +1,8 @@
+[package]
+name = "smw-mwl-file-joiner"
+version = "0.1.0"
+authors = ["Konrad Borowski <konrad@borowski.pw>"]
+
+[dependencies]
+byteorder = "1.2.1"
+failure = "0.1.1"
